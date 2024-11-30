@@ -1,0 +1,12 @@
+Alumno: 195981027  - Claudio Cabrera
+Materia: MATEMATICAS Notas:[5.0, 6.0, 4.2]
+		  Promedio: 5.1
+Materia: LENGUAJE Notas:[5.1, 6.7, 4.2]
+		  Promedio: 5.3
+
+Alumno: 1233333  - assdo gfdfgd
+Materia: MATEMATICAS Notas:[5.7, 6.5, 4.8]
+		  Promedio: 5.7
+Materia: LENGUAJE Notas:[5.4, 6.2, 4.1]
+		  Promedio: 5.2
+
